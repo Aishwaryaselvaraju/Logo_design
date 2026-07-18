@@ -1,5 +1,3 @@
-# Logo_design
-
 #  Logo Design Collection
 
 A collection of logo designs created using **Figma** and **Inkscape**. This repository showcases my logo design practice, including branding concepts, vector illustrations, and creative logo ideas.
